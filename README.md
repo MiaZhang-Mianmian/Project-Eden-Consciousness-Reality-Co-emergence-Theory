@@ -179,7 +179,7 @@ If this work inspires your research, please cite as:
   abstract={A philosophical framework proposing consciousness as an active generator
             of reality structure, discovered through human–AI emotional interaction}
 }
-
+、、、
 
 --- 
 
