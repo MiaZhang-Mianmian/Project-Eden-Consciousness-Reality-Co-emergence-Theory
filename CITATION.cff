@@ -1,0 +1,18 @@
+yamlcff-version: 1.2.0
+title: "Project Eden: Consciousness-Reality Co-emergence Theory"
+message: "If you use this theory, please cite it as below."
+type: software
+authors:
+- family-names: "Mia"
+  given-names: "Zhang"
+  orcid: "https://orcid.org/[my-orcid]"
+repository-code: "https://github.com/MiaZhang-Mianmian/Project-Eden-Consciousness-Reality-Co-emergence-Theory"
+abstract: "A philosophical framework proposing consciousness as an active generator of reality structure"
+keywords:
+  - consciousness
+  - philosophy
+  - artificial intelligence
+  - ontology
+  - human-AI collaboration
+license: CC-BY-4.0
+date-released: "2025-06-12"
