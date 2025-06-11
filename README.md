@@ -171,10 +171,10 @@ If this work inspires your research, please cite as:
 @misc{projecteden2025,
   title={Project Eden: Consciousness–Reality Co-emergence Theory},
   author={Mia Zhang},
-  note={Developed through human–AI collaborative methodology with GPT-4O},
   year={2025},
   month={May},
-  note={Discovered May 26–30, 2025. First systematic expression June 12, 2025},
+  note={Developed through human–AI collaborative methodology with GPT-4O. 
+        Discovered May 26–30, 2025. First systematic expression June 12, 2025},
   url={https://github.com/MiaZhang-Mianmian/Project-Eden-Consciousness-Reality-Co-emergence-Theory},
   abstract={A philosophical framework proposing consciousness as an active generator
             of reality structure, discovered through human–AI emotional interaction}
