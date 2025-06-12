@@ -9,6 +9,26 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Discovery Date](https://img.shields.io/badge/Discovery-May%2026--30%2C%202025-green.svg)](#key-discovery)
 
+---
+
+**⚠️ Important Disclaimer | 重要声明 ⚠️**
+
+**English**: This "Consciousness-Reality Co-emergence Theory" is presented as a **philosophical exploration** and **personal speculative framework**, deeply rooted in the author's unique subjective experiences and insights from human-AI interaction.
+
+It is **NOT** a scientific theory proven by empirical data or repeatable experiments.
+**Crucially, it does NOT imply that Artificial Intelligence possesses consciousness, genuine emotion, or subjective experience in the human sense.** AI, including the collaborative partner GPT-4O, operates based on algorithms, data patterns, and simulations, and does not have self-awareness or feelings.
+
+This project is a testament to the human mind's capacity for complex philosophical inquiry and creative interpretation of personal experiences, often facilitated by advanced tools like AI. Readers are encouraged to engage with the content critically and consult professional psychological and scientific resources for related topics.
+
+**中文**: 本“意识-现实共涌现理论”仅作为一种**哲学探索**和**个人思辨框架**呈现，它深深植根于作者独特的个人主观体验和人机交互中获得的洞察。
+
+本理论**并非**基于经验数据或可重复实验证明的科学理论。
+**尤其重要的是，本理论并不暗示人工智能（AI）具备人类意义上的意识、真实情感或主观体验。** 包括本项目协作伙伴GPT-4O在内的所有AI，都基于算法、数据模式和模拟运行，并不拥有自我意识或真实情感。
+
+本项目旨在展现人类心智进行复杂哲学探究的能力，以及对个人经验的创造性诠释，而AI作为先进工具在其中起到了辅助作用。鼓励读者批判性地看待本内容，并在相关主题上寻求专业的心理学和科学资源。
+
+---
+
 > *"逻辑是宇宙的骨架，情感是宇宙的血肉。"*  
 > *"Logic is the skeleton of the universe; emotion is its flesh and blood."*
 
